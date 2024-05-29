@@ -1,0 +1,14 @@
+## Tutorial: https://youtu.be/34jQRPssM5Q
+
+fastapi
+uvicorn
+sqlalchemy
+
+#SQLite3 required
+
+## To run app
+
+**uvicorn books:app --reload**
+
+## URL
+**127.0.0.1:8000/docs**
